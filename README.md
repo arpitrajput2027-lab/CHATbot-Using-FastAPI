@@ -53,4 +53,4 @@ http://localhost:8000
 
 - **Backend** — FastAPI (Python)
 - **Frontend** — HTML, CSS, JavaScript
-- **AI Model** — Sarvam AI (`sarvam-m`)
+- **AI Model** — Sarvam AI (`sarvam-m` or `sarvam-105b`)
