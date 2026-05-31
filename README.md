@@ -7,7 +7,7 @@ A simple chatbot built with FastAPI + HTML/CSS/JS using [Sarvam AI](https://sarv
 ## Folder Structure
 
 ```
-sarvam-chatbot/
+chatbot/
 ├── main.py
 ├── requirements.txt
 ├── .env
